@@ -1,0 +1,23 @@
+{
+  "name": "LOFI",
+  "short_name": "LOFI",
+  "description": "Generate and play unique lofi tracks using machine learning and interactive sliders.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#181818",
+  "theme_color": "#fc5c8c",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-196.png",
+      "sizes": "196x196",
+      "type": "image/png"
+    }
+  ],
+  "lang": "en"
+}
