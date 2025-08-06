@@ -3,7 +3,8 @@
   "short_name": "LOFI",
   "description": "Generate and play unique lofi tracks using machine learning and interactive sliders.",
   "start_url": "/Lofi-PWA/",
-  "scope": "/",
+  "scope": "/Lofi-PWA/",
+  "id": "/Lofi-PWA/",
   "protocol_handlers": [
     {
       "protocol": "web+lofi",
@@ -13,17 +14,16 @@
   "display": "standalone",
   "background_color": "#181818",
   "theme_color": "#fc5c8c",
-  "orientation": "any",
   "icons": [
     {
       "src": "manifest-icon-196.maskable.png",
-      "sizes": "192x192",
+      "sizes": "196x196",
       "type": "image/png",
       "purpose": "any"
     },
     {
       "src": "manifest-icon-196.maskable.png",
-      "sizes": "192x192",
+      "sizes": "196x196",
       "type": "image/png",
       "purpose": "maskable"
     },
